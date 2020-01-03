@@ -1,0 +1,14 @@
+{
+    "name": "thises/bub",
+    "description": "bla bla",
+    "type": "project",
+    "version": "1.0.0",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "gug\\spa\\": ""
+        }
+    }
+}
